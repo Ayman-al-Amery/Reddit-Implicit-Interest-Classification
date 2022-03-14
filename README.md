@@ -1,1 +1,1 @@
-# Reddit-Implicit-Interest-Classification
+# Reddit Implicit Interest Classification
