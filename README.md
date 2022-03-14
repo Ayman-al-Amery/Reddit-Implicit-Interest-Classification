@@ -102,7 +102,7 @@ Below is an example of the resulting aggregated DataFrame for the user OliveInve
 
 Having done this, I now had to condense the data horizontally by using the measures of interaction calculated above to define a single value for each subreddit, for each user. This required me to define an expression in order to calculate this value, which is shown below.
  
-<img width="943" alt="Screenshot 2022-03-14 at 14 51 22" src="https://user-images.githubusercontent.com/91144560/158197767-ca2eeaad-4e63-4706-b5d0-02ab8e7c191b.png">
+<img width="943" alt="Screenshot 2022-03-14 at 15 00 30" src="https://user-images.githubusercontent.com/91144560/158199764-a5bb8143-3ff2-4713-bc8b-214e62d4af41.png">
 
 Where, for each user:
 
