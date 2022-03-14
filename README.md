@@ -106,10 +106,10 @@ Having done this, I now had to condense the data horizontally by using the measu
 
 Where, for each user:
 
-Vi = value for any given subreddit \n
-Ni = number of interactions with the subreddit \n
-Si = mean score achieved across all interactions with the subreddit \n
-Ai = mean number of awards earned across all interactions with the subreddit \n
+Vi = value for any given subreddit  
+Ni = number of interactions with the subreddit  
+Si = mean score achieved across all interactions with the subreddit  
+Ai = mean number of awards earned across all interactions with the subreddit  
 Ci = mean number of comments received across all interactions with the subreddit
 
 However, I believe that a user is more interested in subreddits they have posted in than subreddits they have only commented in. Therefore values for subreddits that a user only commented in were half weighted.
