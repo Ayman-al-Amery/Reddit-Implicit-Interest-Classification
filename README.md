@@ -2,12 +2,12 @@
 
 ## Notebook Contents
 
-- [Data Mining & Feature Engineering] (https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/Data_Mining_Feature_Engineering.ipynb)
-- [Example Walkthrough (Data Mining & Feature Engineering)] (https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/Data_Mining_Feature_Engineering_Example_Walkthrough.ipynb)
-- [Exploratory Data Analysis, Data Cleaning & Feature Selection] (https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/EDA_Data_Cleaning_Feature_Selection.ipynb)
-- [Modelling, Evaluation & Analysis] (https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/Modelling_Evaluation_Analysis.ipynb)
+- [Data Mining & Feature Engineering](https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/Data_Mining_Feature_Engineering.ipynb)
+- [Example Walkthrough (Data Mining & Feature Engineering)](https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/Data_Mining_Feature_Engineering_Example_Walkthrough.ipynb)
+- [Exploratory Data Analysis, Data Cleaning & Feature Selection](https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/EDA_Data_Cleaning_Feature_Selection.ipynb)
+- [Modelling, Evaluation & Analysis](https://github.com/Ayman-al-Amery/Reddit-Implicit-Interest-Classification/blob/main/Modelling_Evaluation_Analysis.ipynb)
 
-Note: In order to run some of the code within the Jupyter Notebooks, you will need a Reddit account and you will have to create an application. [This article] on Towards Data Science provides step-by-step guidance on how to set up an application on Reddit. (https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c)
+Note: In order to run some of the code within the Jupyter Notebooks, you will need a Reddit account and you will have to create an application. [This article](https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c) on Towards Data Science provides step-by-step guidance on how to set up an application on Reddit. 
 
 ## Introduction
 
