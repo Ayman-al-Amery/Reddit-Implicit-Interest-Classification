@@ -258,7 +258,7 @@ Given that the Random Forest Classifier with 398 predictors was the best perform
 
 While this is not an entirely accurate method to obtain class contribution, those predictors with the largest feature importances were also the predictors with the largest absolute coefficients. Therefore, I feel comfortable examining only the most significant features in this manner, as there may be some ambiguity with regards to the features that contribute very little. Those with very low feature importances would have coefficients of just below or just above 0, which would make identifying which class they contribute unreliable.  
 
-Below is a horizontal bar chart illustrating subreddit Feature importance (Random Forest) and Class contribution (Logistic Regression). Bars with positive numerical values contribute to the positive target class ie user has interacted with wallstreetbets, and those with negative values contribute to the negative target class.
+Below is a horizontal bar chart illustrating subreddit Feature Importance (Random Forest) and Class Contribution (Logistic Regression). Bars with positive numerical values contribute to the positive target class ie user has interacted with wallstreetbets, and those with negative values contribute to the negative target class.
 
 <img width="714" alt="Screenshot 2022-03-14 at 14 48 57" src="https://user-images.githubusercontent.com/91144560/158197234-2902495d-cdef-4289-a9b8-db679ba17970.png">
 
